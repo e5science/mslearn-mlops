@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mslearn-mlops/mlruns/0/a2b5fd5b8c5f41bf9c03a9f977110017/artifacts
+end_time: 1690366402798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a2b5fd5b8c5f41bf9c03a9f977110017
+run_uuid: a2b5fd5b8c5f41bf9c03a9f977110017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690366390193
+status: 3
+tags: []
+user_id: codespace
